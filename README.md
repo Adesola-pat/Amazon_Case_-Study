@@ -46,10 +46,10 @@ Here are some of the important questions answered during the analysis
 - Dashboard Layout Design
 
 ## Dashboard Preview
-
+![Image](https://github.com/user-attachments/assets/78d0fcd5-c484-4d2b-9a29-f0c8c8699a1b)
 
 ## Files Included
-[Amazon case study (Autosaved)](Amazon case study (Autosaved).xlsx)
+[Amazon case study (Autosaved)](./Amazon case study (Autosaved).xlsx)
 
 ## Author
 **Patience Ayeni**
