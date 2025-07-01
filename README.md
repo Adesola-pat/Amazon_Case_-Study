@@ -3,15 +3,17 @@ Data Analysis of Amazon product dataset using Excel including pivot tables, char
 
 -----
 ## Table of contents
-.[Overview](#overview)
+[Overview](#overview)
 
-.[Key Questions Answered](#key-questions-answered)
+[Key Questions Answered](#key-questions-answered)
 
-.[Tools Used](#tools-used).
+[Tools Used](#tools-used)
 
-.[Dashboard Preview](#dashboard-preview)
+[Dashboard Preview](#dashboard-preview)
 
-.[Files Included](#files-included).
+[Files Included](#files-included)
+
+[Author](#author)
 
 
 ## Overview
@@ -42,4 +44,13 @@ Here are some of the important questions answered during the analysis
 - Calculated Columns
 - Slicers and filters
 - Dashboard Layout Design
+
+## Dashboard Preview
+![Dashboard Preview](Amazon data dashboard.PNG)
+
+## Author
+**Patience Ayeni**
+
+patienceboluwatife62@gmail.com
+
 
