@@ -38,7 +38,7 @@ Here are some of the important questions answered during the analysis
 - what are the top 5 products based on rating and review
 
 
-## Tools Used
+## 🛠 Tools Used
 - Microsoft Excel
 - PivotTables and PivotCharts
 - Calculated Columns
@@ -50,7 +50,8 @@ Here are some of the important questions answered during the analysis
 
 ## Files Included
 [Amazon case study (Autosaved).xlsx](https://github.com/user-attachments/files/21003829/Amazon.case.study.Autosaved.xlsx)
-## Author
+
+## 🧑‍💼 Author
 **Patience Ayeni**
 
 patienceboluwatife62@gmail.com
